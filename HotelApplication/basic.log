@@ -1,0 +1,7 @@
+2017-09-26 18:07:35,013 INFO [root] - Executed successfully
+2017-09-26 18:07:35,231 ERROR [root] - Exception Occured  ORA-02291: integrity constraint (TRG335.SYS_C00481296) violated - parent key not found
+
+2017-09-26 18:07:42,771 INFO [root] - Executed successfully
+2017-09-26 18:07:48,812 INFO [root] - Executed successfully
+2017-09-26 18:08:13,910 INFO [root] - Executed successfully
+2017-09-26 18:08:19,219 ERROR [root] - Exception Occured  Invalid column index
